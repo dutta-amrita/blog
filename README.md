@@ -1,5 +1,4 @@
 # Technical recommendations
-#--------------------------
 Algorithms Illuminated, Tim Roughgarden
 Algorithms (4th Edition), Robert Sedgewick and Kevin Wayne
 
@@ -13,7 +12,6 @@ The Linux Programming Interface, Michael Kerrisk
 Understanding the Linux Kernel, Daniel P. Bovet and Marco Cesati
  
 # Non-technical recommendations
-#-----------------------------
 Thinking, Fast and Slow
 The Power of Habit
 Deep Work: Rules for Focused Success in a Distracted World 
